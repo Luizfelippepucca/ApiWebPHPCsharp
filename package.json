@@ -1,0 +1,22 @@
+{
+  "name": "apiwebphpcsharp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luizfelippepucca/ApiWebPHPCsharp.git"
+  },
+  "author": "Luiz Felippe Pucca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luizfelippepucca/ApiWebPHPCsharp/issues"
+  },
+  "homepage": "https://github.com/Luizfelippepucca/ApiWebPHPCsharp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
